@@ -1,0 +1,15 @@
+This folder contains all of the systems tools and utilities which is offered to the user.
+Theses tools enable the user to perform several useful tasks.
+
+Included:
+
+>Email system
+>Create recipe forms
+>show wastage graph form
+>shopping list form
+>Nutrition List form
+>Hourglass form (a timer in form of a progress bar indicating expiry progress)
+>manage budget form - calculates maximum spending budget for a duration
+>login forms
+>registry forms
+>user forms
